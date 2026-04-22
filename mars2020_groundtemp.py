@@ -7,6 +7,7 @@
 #
 # MEDA TIRS infrared probes:
 # https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/PERSEVERANCE/meda.html
+# https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JE007559
 #
 # ground temperature data:
 # data from https://pds-atmospheres.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/data_calibrated_env/
