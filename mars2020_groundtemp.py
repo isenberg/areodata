@@ -59,7 +59,7 @@ plt.axhline(y=0, color='black')
 plt.xlabel('Local Mean Solar Time Hours')
 plt.ylabel('Ground Temperature °C')
 plt.title('Mars 2020 Perseverance Rover MEDA TIRS: Ground Temperature on Sol ' + str(sol))
-plt.annotate('Graph: github.com/isenberg/marsdata/mars2020_groundtemp.py '
+plt.annotate('Graph: mars2020_groundtemp.py at github.com/isenberg/areodata '
     + datetime.date.today().isoformat()
     + '\nData: NASA/JPL-Caltech / Centro de Astrobiología of Spain'
     + '\npds-atmospheres.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/data_calibrated_env',
